@@ -48,9 +48,6 @@ void initGame() {
 
     // set player to 1
     player = 1;
-
-    // new game message
-    cout << endl << endl << "NEW GAME";
 }
 
 
@@ -557,6 +554,8 @@ void playGame() {
             if (game_restart == 'y' || game_restart == 'Y') {
                 // erase the game field and print the empty board
                 initGame();
+				// new game message
+				cout << endl << endl << "NEW GAME";
                 printBoard();
             } else {
                 cout << "Take care, bye." << endl;

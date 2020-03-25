@@ -18,7 +18,7 @@ The **main.cpp** file is the main file of the program. All configurations must b
 In order to compile the code, the main file must be compiled. Therefore, solely a C++ compiler suffice. With the Windows PowerShell/Command Prompt or a Linux based Terminals the **main.cpp** can be compiled using g++ ([Windows](http://www.mingw.org/wiki/getting_started), [Linux](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)):
 
 ```sh
-$ g++ main.cpp -std=c++17
+$ g++ main.cpp -std=c++14
 ```
 
 Alternatively, the files of this repository can be added to project folders of C++ IDEs like VisualStudio or CLion and be run by compiling the **main.cpp** file inside the IDE.
