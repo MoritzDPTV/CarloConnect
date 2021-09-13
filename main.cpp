@@ -1,5 +1,7 @@
 //
-// Created by Momo on 22.07.2019.
+// Author: Moritz Duarte Pinheiro Torres Vogt
+// Contact: info@carloconnect.com
+// Date: 22.07.2019
 //
 
 
