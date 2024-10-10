@@ -7,7 +7,7 @@
 
 The provided code of this repository can be compiled to a console application to play Connect Four against CarloConnect offline. Besides the MCTS approach utilized for CarloConnect, the code further contains a Monte Carlo Search (MCS) approach.
 
-For further information about the game of Connect Four, the MCS, the MCTS, the implementation and the strength of CarloConnect, see my [thesis](https://carloconnect.com/pinheiro-torres_vogt_thesis_20.pdf).
+For further information about the game of Connect Four, the MCS, the MCTS, the implementation and the strength of CarloConnect, see my [thesis](https://carloconnect.com/pinheiro-torres_vogt_thesis_20.pdf) or our [paper](https://link.springer.com/chapter/10.1007/978-3-031-04870-8_17).
 
 
 ## Configuration
